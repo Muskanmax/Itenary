@@ -1,0 +1,70 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "category": "Visa Guides",
+      "title": "Complete Guide to Japan Tourist Visa 2025",
+      "excerpt": "Everything you need to know about applying for a Japan tourist visa — documents, processing time, fees, and insider tips to get approved fast.",
+      "image": "https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=600&q=80",
+      "author": "Riya Mehta",
+      "date": "May 28, 2025",
+      "readTime": "7 min read",
+      "tag": "Visa"
+    },
+    {
+      "id": 2,
+      "category": "Honeymoon Guides",
+      "title": "Bali vs Maldives: The Ultimate Honeymoon Showdown",
+      "excerpt": "Can't decide between Bali's lush jungles and Maldives' crystal lagoons? We compare both destinations across budget, activities, romance, and more.",
+      "image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=600&q=80",
+      "author": "Arjun Sharma",
+      "date": "May 20, 2025",
+      "readTime": "10 min read",
+      "tag": "Honeymoon"
+    },
+    {
+      "id": 3,
+      "category": "Budget Travel",
+      "title": "10 Days in Thailand Under ₹60,000: Real Itinerary",
+      "excerpt": "A detailed, real-cost breakdown of a 10-day Thailand trip — flights, stays, food, and activities — all under a tight budget.",
+      "image": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=600&q=80",
+      "author": "Priya Nair",
+      "date": "May 14, 2025",
+      "readTime": "8 min read",
+      "tag": "Budget"
+    },
+    {
+      "id": 4,
+      "category": "Luxury Travel",
+      "title": "Private Villa Stays in Phuket: Worth Every Penny?",
+      "excerpt": "We stayed in 5 private pool villas across Phuket and rated them honestly. Here's which ones deliver genuine luxury and which are just expensive.",
+      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=600&q=80",
+      "author": "Kabir Malhotra",
+      "date": "May 6, 2025",
+      "readTime": "9 min read",
+      "tag": "Luxury"
+    },
+    {
+      "id": 5,
+      "category": "Family Travel",
+      "title": "Singapore with Kids: The Perfect 5-Day Itinerary",
+      "excerpt": "Universal Studios, Gardens by the Bay, Sentosa — here's how to structure a family trip to Singapore that keeps both kids and parents delighted.",
+      "image": "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?w=600&q=80",
+      "author": "Sneha Bose",
+      "date": "April 29, 2025",
+      "readTime": "6 min read",
+      "tag": "Family"
+    },
+    {
+      "id": 6,
+      "category": "Country Travel Tips",
+      "title": "First Timer's Guide to Dubai: Do's, Don'ts & Hidden Gems",
+      "excerpt": "Beyond Burj Khalifa and gold souks — here's what first-time Dubai visitors often miss, and how to experience the city like an insider.",
+      "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=600&q=80",
+      "author": "Rahul Verma",
+      "date": "April 21, 2025",
+      "readTime": "11 min read",
+      "tag": "Tips"
+    }
+  ]
+}
